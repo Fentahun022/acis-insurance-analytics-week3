@@ -1,0 +1,22 @@
+# requirements.txt
+
+pandas==2.2.2
+# For numerical operations and array manipulation
+numpy==1.26.4
+# For statistical functions and hypothesis testing
+scipy==1.13.0
+
+# --- Data Visualization ---
+matplotlib==3.8.4
+# For enhanced statistical visualizations
+seaborn==0.13.2
+
+# The fundamental machine learning library for Python
+scikit-learn==1.4.2
+# High-performance gradient boosting library
+xgboost==2.0.3
+# For model interpretability (SHapley Additive exPlanations)
+shap==0.45.0
+
+# --- Data Version Control ---
+dvc[s3]==3.50.1
